@@ -4,6 +4,9 @@
 
 A full-stack web application for managing and rating retail stores. The system provides role-based functionality where users can search and rate stores, store owners can manage their store information and view ratings, and administrators can manage users and oversee the entire system. Built with a React frontend and Node.js backend, using MySQL for data persistence and JWT for authentication.
 
+## 🌐 Live Links
+   https://store-rating-app-jet.vercel.app  
+
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
